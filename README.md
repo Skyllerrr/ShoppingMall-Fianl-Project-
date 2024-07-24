@@ -1,5 +1,3 @@
-입9팔9 쇼핑몰 프로젝트
-
 ## 입9팔9
 
 ![intro](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/c1baa527-2b40-4f9c-a2ed-015019d108db)
